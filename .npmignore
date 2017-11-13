@@ -1,4 +1,6 @@
 test/
+dist/
+gulpfile.js
 .travis.yml
 .gitignore
 .eslintrc
